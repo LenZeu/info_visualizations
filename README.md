@@ -1,2 +1,3 @@
 # info_visualizations
-Various scripts for visualizations purposes
+This repo contains various scripts for data visualization purposes
+
